@@ -1,6 +1,6 @@
 # Powershell Script to find local .pst files
 
-This script searches for local .pst files and writes a list of any it finds to the network. 
+This script searches a Windows computer for local .pst files and writes a list of any found to a file stored on a network share. 
 
 Files created by this script have the naming convention HOSTNAME-USERNAME.txt
 
